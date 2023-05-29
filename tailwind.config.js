@@ -18,6 +18,10 @@ module.exports = {
         "egg-desktop": "url('/images/desktop/image-transform.jpg')",
         "standout-mobile": "url('/images/mobile/image-stand-out.jpg')",
         "standout-desktop": "url('/images/desktop/image-stand-out.jpg')",
+        "graphic-mobile": "url('/images/mobile/image-graphic-design.jpg')",
+        "graphic-desktop": "url('/images/desktop/image-graphic-design.jpg')",
+        "photography-mobile": "url('/images/mobile/image-photography.jpg')",
+        "photography-desktop": "url('/images/desktop/image-photography.jpg')",
       },
     },
     colors: {

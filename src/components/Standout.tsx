@@ -4,7 +4,7 @@ import Title from "./Title";
 const Standout = () => {
   return (
     <div className="flex w-full flex-col md:flex-row">
-      <div className="bg-standout-mobile lg:bg-standout-desktop flex-1 bg-cover bg-center min-h-[50vh] lg:min-h-[65vh]"></div>
+      <div className="bg-standout-mobile sm:bg-standout-desktop flex-1 bg-cover bg-center min-h-[50vh] lg:min-h-[65vh]"></div>
       <div className="flex-1 text-center md:text-left flex items-center">
         <div className="p-10 max-w-lg mx-auto">
           <Title text="Stand out to the right audience" />

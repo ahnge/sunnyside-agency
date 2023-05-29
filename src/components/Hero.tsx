@@ -4,7 +4,7 @@ import downArrow from "../../public/images/icon-arrow-down.svg";
 
 const Hero = () => {
   return (
-    <div className="bg-hero-mobile flex flex-col justify-center items-center w-full min-h-screen bg-center md:bg-hero-desktop bg-cover p-10">
+    <div className="bg-hero-mobile flex flex-col justify-center items-center w-full min-h-screen bg-center sm:bg-hero-desktop bg-cover p-10">
       <h1 className="font-fraunces text-5xl/tight tracking-widest text-neutral-white text-center">
         WE ARE CREATIVES
       </h1>

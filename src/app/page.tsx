@@ -2,6 +2,7 @@ import Nav from "../components/Nav";
 import Hero from "../components/Hero";
 import Transform from "../components/Transform";
 import Standout from "@/components/Standout";
+import Services from "@/components/Services";
 
 export default function Home() {
   return (
@@ -10,6 +11,7 @@ export default function Home() {
       <Hero />
       <Transform />
       <Standout />
+      <Services />
     </main>
   );
 }
