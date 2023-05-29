@@ -3,6 +3,7 @@ import Hero from "../components/Hero";
 import Transform from "../components/Transform";
 import Standout from "@/components/Standout";
 import Services from "@/components/Services";
+import Testimonials from "@/components/Testimonials";
 
 export default function Home() {
   return (
@@ -12,6 +13,7 @@ export default function Home() {
       <Transform />
       <Standout />
       <Services />
+      <Testimonials />
     </main>
   );
 }
