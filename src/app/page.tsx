@@ -7,6 +7,13 @@ import Testimonials from "@/components/Testimonials";
 import Gallery from "@/components/Gallery";
 import Footer from "@/components/Footer";
 
+import { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "Sunnnyside agency",
+  description: "fem challenge to refresh my css skills",
+};
+
 export default function Home() {
   return (
     <main className="text-lg">
